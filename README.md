@@ -1,5 +1,5 @@
 # ReputationRL-Coop
-This repo contains an implementation of [Colaboratory notebook](https://colab.research.google.com/github/itstyren/reputationRL-coop/blob/main/reputationRL_coop_figures.ipynb), which loads the data from the simulation and reproduces the experimental results presented in the paper titled: 'Reputation-based Interaction Promotes Cooperation with Reinforcement Learning'.
+This repo contains an implementation of [Colaboratory notebook](https://colab.research.google.com/github/itstyren/reputationRL-coop/blob/main/reputationRL_coop_figures.ipynb), which loads the data from the simulation and reproduces the experimental results presented in the paper titled: ['Reputation-based Interaction Promotes Cooperation with Reinforcement Learning'](https://doi.org/10.1109/TEVC.2023.3304911).
 
 The notebook showcases the entangled coevolutionary dynamics, coupled with strategy and topological evolution, and provides clear illustrations and explanations of these processes. The entangled coevolutionary dynamics combined with strategy and topological evolution are illustrated and described as below:
 

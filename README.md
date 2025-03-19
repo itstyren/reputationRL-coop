@@ -31,4 +31,14 @@ The graphs below depict the outcomes of various experiments. For more comprehens
 
 
 # Paper citation
-Update soon
+```text
+@ARTICLE{10215365,
+  author={Ren, Tianyu and Zeng, Xiao-Jun},
+  journal={IEEE Transactions on Evolutionary Computation}, 
+  title={Reputation-Based Interaction Promotes Cooperation With Reinforcement Learning}, 
+  year={2024},
+  volume={28},
+  number={4},
+  pages={1177-1188},
+  doi={10.1109/TEVC.2023.3304911}}
+```
